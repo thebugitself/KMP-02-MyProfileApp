@@ -1,3 +1,6 @@
+App Screenshot:
+<img width="392" height="874" alt="image" src="https://github.com/user-attachments/assets/f89c6a18-cfde-4737-9e56-301c3eb7a949" />
+
 This is a Kotlin Multiplatform project targeting Android, Desktop (JVM).
 
 * [/shared](./shared/src) is for code that will be shared across your Compose Multiplatform applications.
